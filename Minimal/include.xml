@@ -6,6 +6,7 @@
             <css url="Minimal/Minimal.css">Minimal.css</css>
             <extra dir="minimal_images">
                 <images url="Minimal/minimal_images/x.png">x.png</images>
+				<images url="Minimal/minimal_images/x.png">x.png</images>
             </extra>
         </name>
     </file>
