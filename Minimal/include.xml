@@ -1,18 +1,12 @@
 <theme>
     <name>Minimal</name>
-    <preview>https://raw.githubusercontent.com/bomdia/Ajax-Chat-Style-Repo/master/master/Minimal/Minimal.jpg</preview>
+    <preview>Minimal/Minimal.jpg</preview>
     <file>
         <name>
-            <css>Minimal.css</css>
-            <extra>
-                <images>x.png</images>
+            <css url="Minimal/Minimal.css">Minimal.css</css>
+            <extra dir="minimal_images">
+                <images url="Minimal/minimal_images/x.png">x.png</images>
             </extra>
         </name>
-        <url>
-            <css>https://raw.githubusercontent.com/bomdia/Ajax-Chat-Style-Repo/master/master/Minimal/Minimal.css</css>
-            <extra dir="minimal_images">
-                <images>https://raw.githubusercontent.com/bomdia/Ajax-Chat-Style-Repo/master/Minimal/minimal_images/x.png</images>
-            </extra>
-        </url>
     </file>
 </theme>
