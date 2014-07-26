@@ -1,4 +1,5 @@
 <themelist>
     <a xmlurl="Minimal/include.xml">Minimal</a>
+	<b xmlurl="test/include.xml">Test</b>
 </themelist>
     
