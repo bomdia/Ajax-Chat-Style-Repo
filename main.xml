@@ -1,5 +1,13 @@
 <themelist>
     <a xmlurl="Minimal/include.xml">Minimal</a>
 	<b xmlurl="test/include.xml">Test</b>
+	<c xmlurl="test/include.xml">Test</c>
+	<d xmlurl="test/include.xml">Test</d>
+	<e xmlurl="test/include.xml">Test</e>
+	<f xmlurl="test/include.xml">Test</f>
+	<g xmlurl="test/include.xml">Test</g>
+	<h xmlurl="test/include.xml">Test</h>
+	<i xmlurl="test/include.xml">Test</i>
+	<ba xmlurl="test/include.xml">Test</ba>
 </themelist>
     
