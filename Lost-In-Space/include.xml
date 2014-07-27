@@ -1,0 +1,16 @@
+<theme>
+    <description>Lost in space</description>
+    <preview>Lost-In-Space/Lost-In-Space.jpg</preview>
+    <file>
+        <name>
+            <css url="Lost-In-Space/Lost-In-Space.css">Lost-In-Space.css</css>
+            <extra dir="Lost-In-Space_images">
+                <images url="Lost-In-Space/Lost-In-Space_images/bg-800.jpg">bg-800.jpg</images>
+				<images url="Lost-In-Space/Lost-In-Space_images/bg-1600.jpg">bg-1600.jpg</images>
+				<images url="Lost-In-Space/Lost-In-Space_images/dark-75.png">dark-75.png</images>
+				<images url="Lost-In-Space/Lost-In-Space_images/trans-75.png">trans-75.png</images>
+				<images url="Lost-In-Space/Lost-In-Space_images/bg-800.jpg">trans-85.png</images>
+            </extra>
+        </name>
+    </file>
+</theme>
